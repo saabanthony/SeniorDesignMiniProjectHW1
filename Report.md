@@ -9,6 +9,6 @@ Here are the first and second attempt at collecting data: first was 100 datapoin
 
 We decided to try collecting Bluetooth data to see if we would get more significant results. Unfortunately, we were not able to connect to any cars via bluetooth and were not able to monitor cars passing by. If we had had significant results we could have estimated the amount of carbon dioxide emmited on the highway next to photonics for the given amount of time. However, it seems like the window is too far from the highway and therefore we could not collect any significant data.
 
-Here is what we got from running bt_scan.py (ble_scan.py did not yeild any better results)
+Here is what we got from running bt_scan.py and ble_scan.py 
 
-<img width="1680" alt="Screen Shot 2021-09-17 at 15 44 20" src="https://user-images.githubusercontent.com/74400483/133845183-9249f5d9-b1e2-4803-97b6-5c5fe3b1e8ab.png">
+![2021-09-17-155441_2560x1440_scrot](https://user-images.githubusercontent.com/74400483/133846343-63f50a01-600d-4d43-9fdd-e43156e491fc.png)
